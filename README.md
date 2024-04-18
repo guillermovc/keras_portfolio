@@ -3,11 +3,7 @@
 Git repo to store all projects using tensorflow & keras.
 
 ## Notebooks
-<<<<<<< HEAD
-### Coffe Classification
-=======
 ### Coffee Classification
->>>>>>> 4412376 (prueba ignorar)
 Classify between four kinds of coffe.  
 Subjects:
 - Download data using kaggle API.
