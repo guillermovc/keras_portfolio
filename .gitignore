@@ -103,11 +103,14 @@ ipython_config.py
 #   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
 #poetry.lock
 
+Face Recognition/
+
 *graph
 **/*.keras
 
 data/*
 */data/*
+*/dataset*/*
 # pdm
 #   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
 #pdm.lock
