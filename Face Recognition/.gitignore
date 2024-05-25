@@ -1,0 +1,11 @@
+keras-facenet-h5/
+keras-facenet-tf23/
+datasets/
+
+*.zip
+*.h5
+*.gz
+
+inception_blocks_v2.py
+fr_utils.py
+app_gradio.py
